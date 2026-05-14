@@ -1,0 +1,9 @@
+customtkinter
+pandas
+numpy
+scikit-learn
+xgboost
+scikit-optimize
+imbalanced-learn
+pillow
+imageio

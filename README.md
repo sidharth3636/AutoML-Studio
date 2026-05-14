@@ -63,5 +63,5 @@ RUN THE FILE IN THE OREDER nprepro->coret->appt
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AutoML-Studio.git
+git clone https://github.com/sidharth3636/AutoML-Studio.git
 cd AutoML-Studio

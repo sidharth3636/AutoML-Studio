@@ -1,6 +1,6 @@
 # AutoML Studio
 
-RUN THE FILE IN THE OREDER (((((nprepro->coret->appt)))))
+
 AutoML Studio is a Python-based desktop application that simplifies machine learning workflows using an interactive GUI.
 
 It supports:
@@ -55,7 +55,7 @@ Supports:
 - XGBoost
 - Scikit-Optimize
 - Imbalanced-learn
-
+RUN THE FILE IN THE OREDER nprepro->coret->appt
 ---
 
 ## Installation
